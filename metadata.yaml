@@ -1,0 +1,33 @@
+_repo: La-P-ninsule-Des-BalkansTurquie-Roumanie---Tome-I_19820
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laveleye, Emile de
+    aliases:
+    - De Laveleye, Emile
+    - Laveleye, Émile Louis Victor, baron de
+    birthdate: 1822
+    deathdate: 1892
+    gutenberg_agent_id: '8904'
+    url: http://www.gutenberg.org/2009/agents/8904
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89mile_Louis_Victor_de_Laveleye
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2006-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19820'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balkan Peninsula'
+- !lcsh 'Eastern question (Balkan)'
+- !lcc 'DR'
+title: "La Péninsule Des Balkans — Tome I\r\nVienne, Croatie, Bosnie, Serbie, Bulgarie,\
+  \ Roumélie, Turquie, Roumanie"
+url: http://www.gutenberg.org/ebooks/19820
